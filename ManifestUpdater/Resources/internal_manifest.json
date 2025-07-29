@@ -158,6 +158,23 @@
     },
 
     {
+        "Name": "Better Ending for Maive",
+        "Author": "Ganonsmasher",
+        "Id": {
+            "Id": "BetterEndingforMaive",
+            "Type": "Owlcat"
+        },
+        "Service": {
+            "Nexus": {
+                "ModID": "277"
+            }
+        },
+        "About": "This mod alters the ending for Maive when taken aboard your ship.",
+        "HomepageUrl": "https://www.nexusmods.com/warhammer40kroguetrader/mods/277",
+        "Tags": [ "Gameplay" ]
+    },
+
+    {
         "Name": "Better Escort Ships",
         "Author": "jonHinkerton",
         "Id": {
